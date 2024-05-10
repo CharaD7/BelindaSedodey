@@ -11267,6 +11267,9 @@ body.template-color-1 {
   font-weight: var(--p-semi-bold);
   font-size: var(--h6);
 }
+.logo a span span{
+  color: var(--color-primary);
+}
 @media only screen and (max-width: 767px) {
   .logo a img {
     max-height: 54px;
